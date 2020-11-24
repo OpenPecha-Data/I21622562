@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W20433
   title: ཁྱད་དུ་འཕགས་པའི་བྱང་ཐང་ངོ་མཚར་འོས་པའི་ཐོན་ཁུངས
-  volume: ''
+  volume:
+    2419e79840944db4bc24ecd5bdbfb5ff:
+      image_group_id: I1GS53491
+      title: Volume 1 of khyad du 'phags pa'i byang thang ngo mtshar 'os pa'i thon
+        khungs
+      volume_number: 1
+      total_pages: 187
   author: ''
+ebook_metadata:
+  title: ཁྱད་དུ་འཕགས་པའི་བྱང་ཐང་ངོ་མཚར་འོས་པའི་ཐོན་ཁུངས
+  author: ''
+  sku: P007887
+  cover: cover.jpg
+  layers:
+  - pagination
